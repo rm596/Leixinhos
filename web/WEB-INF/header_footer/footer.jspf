@@ -1,0 +1,22 @@
+</div>
+</div>
+<div id="scroll">
+    <a title="Voltar ao topo" class="top" href="#"><img src="images/top.png" alt="topo" /></a>
+</div>
+<footer>
+    <br>
+    <p><a href="http://www.ualg.pt" target="_blank">Universidade do Algarve</a> | Laborat&oacuterio de Engenharia de Software | 2012/2013</p>
+</footer>
+</div>
+<!-- javascript at the bottom for fast page loading -->
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+<script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('ul.sf-menu').sooperfish();
+        $('.top').click(function() {$('html, body').animate({scrollTop:0}, 'fast'); return false;});
+    });
+</script>
+</body>
+</html>
