@@ -8,3 +8,5 @@ Project developed in Software Engineering with the aim of performing a Bioterium
 The implementation of this system allows all the work to keep organized and intuitive, and can be accessed almost instantly to all users with permission.
 
 ![Index Page](https://cloud.githubusercontent.com/assets/6472330/5324555/b4c45d0c-7cd3-11e4-9d41-dc78dee31cfb.png "Index Page")
+
+Technologies employed: Netbeans, Java EE, GlassFish4, JavaScript, Junit, Jquery, MySql, Jsp, Html5, css3, Modernizer, Content management system 
